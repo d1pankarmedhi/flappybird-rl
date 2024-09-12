@@ -1,0 +1,5 @@
+pyglet
+gym
+flappy-bird-gymnasium
+torch
+huggingface_hub
